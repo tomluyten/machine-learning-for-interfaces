@@ -1,10 +1,14 @@
 # Introduction
 
+‹Wekinator: [http://www.wekinator.org/](http://www.wekinator.org/)
 
+Facial expressions to weki: [https://vimeo.com/175947130](https://vimeo.com/175947130)
 
-Arduino tensorflow tutorial: 
+machine learning for creative media:  [https://www.youtube.com/watch?v=mM6BodLczlA&list=PLaN6Cxwpu9UKR2mPc39bZEJoyAoCwRw\_q](https://www.youtube.com/watch?v=mM6BodLczlA&list=PLaN6Cxwpu9UKR2mPc39bZEJoyAoCwRw_q)
 
-[https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master/GestureToEmoji](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master/GestureToEmoji)
+{% embed url="https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master/GestureToEmoji" %}
+
+## Dynamic time warping in Wekinator
 
 ![](.gitbook/assets/fiftylablogo.png)
 
